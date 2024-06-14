@@ -1,2 +1,2 @@
 This is the file used for demo practice on how git fetch and git pull works!
-Adding another line to check if these changes would be retrieved to the local repo.
+Deleted a 2nd line and add again with different data.
